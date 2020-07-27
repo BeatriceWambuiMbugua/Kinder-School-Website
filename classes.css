@@ -1,0 +1,367 @@
+body{
+    font-family:sans-serif;
+    margin:0;
+    padding:0;
+}
+nav{
+width: 100%;
+height: 80px;
+background-color:rgba(245, 237, 237, 0.333);
+line-height: 80px;
+
+}
+nav ul{
+
+margin:0;
+margin-left:50%;
+
+}
+nav ul li{
+list-style-type:none ;
+display: inline-block;
+position: absolute;
+width: 202px;
+height: 56px;
+left: 604px;
+top: 19px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #613F3F;
+
+}
+nav ul li a{
+text-decoration: none;
+color:#fff;
+padding:20px
+}
+img{
+width:13%;
+margin-left: 1.9rem;
+
+}
+
+nav ul li:hover{
+background-color: coral;
+color:#000;
+font-weight:bold;
+font-size:28px;
+}
+#intro img{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    margin-left: 0px;
+    top: 81px;
+}
+#clouds img{
+    position: absolute;
+    width:100%;
+    height:250px;
+    margin-left:0px;
+    top:456px;
+}
+#bunny img{
+    position: absolute;
+width: 252px;
+height: 272px;
+margin-left: 93px;
+top: 700px;
+}
+#bunny h1{
+    position: absolute;
+width: 342px;
+height: 59px;
+margin-left: 445px;
+top: 693px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFCE00;
+
+}
+#p1{
+    position: absolute;
+width: 356px;
+height: 54px;
+margin-left: 445px;
+top: 752px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 42px;
+
+color: #886E6E;
+
+}
+#p2{
+    position: absolute;
+width: 900px;
+height: 305px;
+left: 445px;
+top: 824px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #614646;
+
+}
+
+    
+
+#owl img{
+    position: absolute;
+width: 283px;
+height: 278px;
+left: 62px;
+top: 1171px;
+}
+#owl h1{
+    position: absolute;
+width: 365px;
+height: 70px;
+left: 452px;
+top: 1136px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #143488;
+
+}
+#pp1{
+    position: absolute;
+    width: 408px;
+    height: 58px;
+    left: 452px;
+    top: 1201px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #816E6E;
+    
+}
+#pp2{
+    position: absolute;
+    width: 900px;
+    height: 330px;
+    left: 452px;
+    top: 1259px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #3F2C2C;
+    
+}
+#prog{
+    position: absolute;
+width: 700px;
+height: 80px;
+margin-left: 450px;
+top: 1490px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 56px;
+
+color: #000000;
+
+}
+#abc img{
+    position: absolute;
+width: 434px;
+height: 304px;
+margin-left: 0px;
+top: 1625px;
+
+}
+#abc p{
+    position: absolute;
+width: 422px;
+height: 176px;
+margin-left: 0px;
+top: 1929px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+#music img{
+    position: absolute;
+width: 443px;
+height: 304px;
+left: 440px;
+top: 1625px;
+}
+#music p{
+    position: absolute;
+width: 369px;
+height: 96px;
+left: 530px;
+top: 1934px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+#dis img{
+    position: absolute;
+width: 400px;
+height: 304px;
+left: 910px;
+top: 1625px;
+
+}
+#dis p{
+    position: absolute;
+width: 320px;
+height: 83px;
+left: 990px;
+top: 1929px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+#sport img{
+    position: absolute;
+width: 443px;
+height: 311px;
+margin-left: 0px;
+top: 2051px;
+}
+#sport p{
+    position: absolute;
+width: 422px;
+height: 126px;
+left: 0px;
+top: 2372px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+#theater img{
+    position: absolute;
+width: 443px;
+height: 311px;
+left: 450px;
+top: 2051px;
+
+}
+#theater p{
+    position: absolute;
+width: 369px;
+height: 78px;
+left: 530px;
+top: 2372px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+#art img{
+    position: absolute;
+width: 400px;
+height: 311px;
+left: 910px;
+top: 2051px;
+
+}
+#art p{
+    position: absolute;
+width: 300px;
+height: 79px;
+left: 1000px;
+top: 2371px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+#footer{
+    position: absolute;
+width: 608px;
+height: 41px;
+left: 404px;
+top: 2511px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #260202;
+
+}
+.button{
+    background-color: orangered;
+    padding: 0.7rem 1rem;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+}
